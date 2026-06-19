@@ -1,0 +1,33 @@
+name: Colectare Date Meteo Romania Oficial
+
+on:
+  schedule:
+    # Rulează la fiecare 6 ore (orele 02, 08, 14, 20 în România - adaptat pentru ora de vară UTC)
+    - cron: '15 23,5,11,17 * * *' 
+  workflow_dispatch: # Permite rularea manuală pentru test
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout cod
+        uses: actions/checkout@v3
+
+      - name: Configurare Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalare librarii
+        run: pip install requests
+
+      - name: Executare script colector
+        run: python colector.py
+
+      - name: Salvare date in repository
+        run: |
+          git config --global user.name "MeteoBot"
+          git config --global user.email "bot@meteo.com"
+          git add arhiva_anm_oficial/*.json || true
+          git commit -m "Actualizare automata date meteo: $(date)" || true
+          git push || true
