@@ -1,0 +1,3883 @@
+{
+  "success": true,
+  "type": "FeatureCollection",
+  "date": "2026-06-20T23:00:00+03:00",
+  "features": [
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3113115.070000",
+          "5479112.020000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 61,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1003.6 mb, in crestere",
+        "icon": "84",
+        "nume": "ADAMCLISI",
+        "tempe": "21.0",
+        "vant": "3.1 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3024592.430000",
+          "5797145.790000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 83,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1009.7 mb, in crestere",
+        "icon": "84",
+        "nume": "ADJUD",
+        "tempe": "20.7",
+        "vant": "1.6 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2623065.200000",
+          "5790595.750000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "993.4 mb, variabila",
+        "icon": "84",
+        "nume": "ALBA IULIA",
+        "tempe": "23.4",
+        "vant": "0.6 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2822263.320000",
+          "5462026.350000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 61,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1013.0 mb, variabila",
+        "icon": "1",
+        "nume": "ALEXANDRIA",
+        "tempe": "24.0",
+        "vant": "1.2 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2377075.030000",
+          "5801770.390000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 48,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "1007.7 mb, in crestere",
+        "icon": "5",
+        "nume": "ARAD",
+        "tempe": "27.6",
+        "vant": "2.7 m/s, directia : N",
+        "tempapa": "indisponibil",
+        "offset": [
+          15,
+          -11
+        ]
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2995885.310000",
+          "5865998.500000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1002.2 mb, in crestere",
+        "icon": "4",
+        "nume": "BACAU",
+        "tempe": "21.3",
+        "vant": "0.5 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2572934.470000",
+          "5539430.790000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 61,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "985.9 mb, in crestere",
+        "icon": "84",
+        "nume": "BACLES",
+        "tempe": "23.9",
+        "vant": "1.7 m/s, directia : E",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2615074.270000",
+          "6050614.270000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 67,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "999.7 mb, variabila",
+        "icon": "4",
+        "nume": "BAIA MARE",
+        "tempe": "23.1",
+        "vant": "3.2 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2495386.900000",
+          "5602811.500000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "999.5 mb, in crestere",
+        "icon": "84",
+        "nume": "BAILE HERCULANE",
+        "tempe": "23.4",
+        "vant": "1.2 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2597218.790000",
+          "5469972.940000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 59,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1014.7 mb, variabila",
+        "icon": "84",
+        "nume": "BAILESTI",
+        "tempe": "24.5",
+        "vant": "1.7 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2594882.850000",
+          "5866576.400000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 75,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "875.3 mb, variabila",
+        "icon": "84",
+        "nume": "BAISOARA",
+        "tempe": "16.4",
+        "vant": "1.0 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2740099.930000",
+          "5717103.350000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 59,
+        "fenomen_e": "indisponibil",
+        "zapada": "discontinuu ",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "805.2 mb, variabila",
+        "icon": "1",
+        "nume": "BALEA LAC",
+        "tempe": "11.1",
+        "vant": "0.9 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2352893.750000",
+          "5681972.460000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 70,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1011.5 mb, in crestere",
+        "icon": "84",
+        "nume": "BANLOC",
+        "tempe": "23.3",
+        "vant": "1.6 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2849314.900000",
+          "5793300.620000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "964.4 mb, variabila",
+        "icon": "84",
+        "nume": "BARAOLT",
+        "tempe": "22.0",
+        "vant": "1.7 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3077362.660000",
+          "5817772.410000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 63,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1002.0 mb, in crestere",
+        "icon": "84",
+        "nume": "BARLAD",
+        "tempe": "22.9",
+        "vant": "2.0 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3066675.970000",
+          "5942035.140000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 72,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "977.8 mb, in crestere",
+        "icon": "84",
+        "nume": "BARNOVA (RADAR)",
+        "tempe": "20.6",
+        "vant": "0.1 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2743509.370000",
+          "5923511.480000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 80,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "971.0 mb, variabila",
+        "icon": "84",
+        "nume": "BATOS",
+        "tempe": "19.6",
+        "vant": "0.7 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2665452.940000",
+          "5432959.350000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1017.5 mb, variabila",
+        "icon": "1",
+        "nume": "BECHET",
+        "tempe": "21.2",
+        "vant": "0.3 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2973379.130000",
+          "5708351.210000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "927.1 mb, in crestere",
+        "icon": "84",
+        "nume": "BISOCA",
+        "tempe": "19.4",
+        "vant": "1.8 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2728880.140000",
+          "5966442.870000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "979.3 mb, variabila",
+        "icon": "1",
+        "nume": "BISTRITA",
+        "tempe": "20.7",
+        "vant": "1.4 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2664451.020000",
+          "5808988.840000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 68,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "983.3 mb, variabila",
+        "icon": "84",
+        "nume": "BLAJ",
+        "tempe": "22.2",
+        "vant": "2.3 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2701895.790000",
+          "5724908.760000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "963.4 mb, variabila",
+        "icon": "84",
+        "nume": "BOITA",
+        "tempe": "19.6",
+        "vant": "2.9 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2514732.480000",
+          "5941036.150000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "983.7 mb, variabila",
+        "icon": "84",
+        "nume": "BOROD",
+        "tempe": "21.1",
+        "vant": "1.5 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2978166.780000",
+          "6062985.530000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1004.0 mb, variabila",
+        "icon": "84",
+        "nume": "BOTOSANI",
+        "tempe": "20.4",
+        "vant": "0.9 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2449717.210000",
+          "5608669.910000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 92,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "993.2 mb, variabila",
+        "icon": "84",
+        "nume": "BOZOVICI",
+        "tempe": "19.7",
+        "vant": "0.4 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3108003.580000",
+          "5654104.240000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 88,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1019.7 mb, in crestere",
+        "icon": "84",
+        "nume": "BRAILA",
+        "tempe": "21.2",
+        "vant": "0.4 m/s, directia : NE",
+        "tempapa": "indisponibil",
+        "offset": [
+          10,
+          -8
+        ]
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2841559.570000",
+          "5731741.680000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 77,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "961.6 mb, variabila",
+        "icon": "4",
+        "nume": "BRASOV GHIMBAV",
+        "tempe": "20.2",
+        "vant": "1.0 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2815993.330000",
+          "5884967.610000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 77,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "880.8 mb, variabila",
+        "icon": "84",
+        "nume": "BUCIN",
+        "tempe": "14.8",
+        "vant": "2.1 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2917992.250000",
+          "5543161.920000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 62,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1012.2 mb, variabila",
+        "icon": "4",
+        "nume": "BUCURESTI AFUMATI",
+        "tempe": "23.2",
+        "vant": "calm",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2903008.030000",
+          "5544775.340000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1011.1 mb, variabila",
+        "icon": "84",
+        "nume": "BUCURESTI BANEASA",
+        "tempe": "21.5",
+        "vant": "0.9 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2904748.880000",
+          "5529432.680000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 57,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1012.0 mb, variabila",
+        "icon": "84",
+        "nume": "BUCURESTI FILARET",
+        "tempe": "23.8",
+        "vant": "0.1 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2989117.950000",
+          "5642429.790000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 70,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1010.9 mb, in crestere",
+        "icon": "84",
+        "nume": "BUZAU",
+        "tempe": "23.4",
+        "vant": "2.5 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2554341.910000",
+          "5463106.490000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 50,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1014.3 mb, variabila",
+        "icon": "1",
+        "nume": "CALAFAT",
+        "tempe": "26.3",
+        "vant": "0.5 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3043282.780000",
+          "5497335.780000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 62,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1019.2 mb, in crestere",
+        "icon": "84",
+        "nume": "CALARASI",
+        "tempe": "23.4",
+        "vant": "0.7 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2810390.880000",
+          "5958068.990000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 95,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "808.9 mb, in crestere",
+        "icon": "4",
+        "nume": "CALIMANI (RETITIS)",
+        "tempe": "11.3",
+        "vant": "3.2 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2564841.600000",
+          "5838839.910000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 89,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "953.3 mb, variabila",
+        "icon": "84",
+        "nume": "CAMPENI (BISTRA)",
+        "tempe": "19.5",
+        "vant": "0.5 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2864629.410000",
+          "5644172.400000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 89,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "969.5 mb, in crestere",
+        "icon": "84",
+        "nume": "CAMPINA",
+        "tempe": "19.6",
+        "vant": "1.2 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2787059.510000",
+          "5664880.410000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 87,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "945.7 mb, in crestere",
+        "icon": "84",
+        "nume": "CAMPULUNG MUSCEL",
+        "tempe": "17.6",
+        "vant": "0.7 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2711441.390000",
+          "5480949.630000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 54,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1009.4 mb, variabila",
+        "icon": "1",
+        "nume": "CARACAL",
+        "tempe": "24.6",
+        "vant": "1.5 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2474218.200000",
+          "5687426.170000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "994.1 mb, in crestere",
+        "icon": "4",
+        "nume": "CARANSEBES",
+        "tempe": "22.7",
+        "vant": "0.9 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2888732.050000",
+          "5938401.260000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 95,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "820.7 mb, in crestere",
+        "icon": "4",
+        "nume": "CEAHLAU TOACA",
+        "tempe": "10.9",
+        "vant": "2.5 m/s, directia : E",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3121807.410000",
+          "5519086.780000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 57,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1011.3 mb, in crestere",
+        "icon": "84",
+        "nume": "CERNAVODA",
+        "tempe": "21.9",
+        "vant": "2.5 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2398007.430000",
+          "5863834.630000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 51,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "1010.1 mb, in crestere",
+        "icon": "5",
+        "nume": "CHISINEU CRIS",
+        "tempe": "27.6",
+        "vant": "1.6 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2623945.190000",
+          "5905873.750000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "974.9 mb, variabila",
+        "icon": "4",
+        "nume": "CLUJ-NAPOCA",
+        "tempe": "22.2",
+        "vant": "2.8 m/s, directia : VSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3188805.110000",
+          "5498589.710000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 44,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1020.2 mb, in crestere",
+        "icon": "4",
+        "nume": "CONSTANTA",
+        "tempe": "24.8",
+        "vant": "1.6 m/s, directia : SV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3155018.050000",
+          "5579793.510000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "996.3 mb, in crestere",
+        "icon": "84",
+        "nume": "CORUGEA",
+        "tempe": "19.0",
+        "vant": "2.9 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2997345.490000",
+          "6000755.200000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 70,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "989.0 mb, in crestere",
+        "icon": "84",
+        "nume": "COTNARI",
+        "tempe": "22.4",
+        "vant": "2.5 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2656859.130000",
+          "5513563.560000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 65,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "999.7 mb, in crestere",
+        "icon": "1",
+        "nume": "CRAIOVA",
+        "tempe": "23.5",
+        "vant": "3.3 m/s, directia : E",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2504854.170000",
+          "5668950.320000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 51,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "864.0 mb, in crestere",
+        "icon": "84",
+        "nume": "CUNTU",
+        "tempe": "17.0",
+        "vant": "4.2 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2746221.400000",
+          "5649711.860000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 84,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "970.8 mb, variabila",
+        "icon": "84",
+        "nume": "CURTEA DE ARGES",
+        "tempe": "19.4",
+        "vant": "1.3 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2958144.040000",
+          "6139337.090000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "992.9 mb, in crestere",
+        "icon": "84",
+        "nume": "DARABANI",
+        "tempe": "21.2",
+        "vant": "2.0 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2735134.650000",
+          "5624088.920000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 85,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "959.9 mb, variabila",
+        "icon": "84",
+        "nume": "DEDULESTI-MORARESTI",
+        "tempe": "17.8",
+        "vant": "0.5 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2660408.010000",
+          "5962988.640000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "994.1 mb, variabila",
+        "icon": "84",
+        "nume": "DEJ",
+        "tempe": "22.5",
+        "vant": "0.1 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2549083.090000",
+          "5758728.490000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 77,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "994.4 mb, variabila",
+        "icon": "4",
+        "nume": "DEVA",
+        "tempe": "21.0",
+        "vant": "0.4 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2698069.630000",
+          "5569004.560000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 54,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "990.0 mb, in crestere",
+        "icon": "84",
+        "nume": "DRAGASANI",
+        "tempe": "25.3",
+        "vant": "0.7 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2518722.440000",
+          "5562905.800000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1012.6 mb, variabila",
+        "icon": "1",
+        "nume": "DROBETA TURNU SEVERIN",
+        "tempe": "25.8",
+        "vant": "1.4 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2737524.450000",
+          "5816939.600000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 86,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "985.2 mb, variabila",
+        "icon": "84",
+        "nume": "DUMBRAVENI",
+        "tempe": "19.3",
+        "vant": "0.8 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2467984.440000",
+          "5889320.350000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 54,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "955.4 mb, in crestere",
+        "icon": "84",
+        "nume": "DUMBRAVITA DE CODRU",
+        "tempe": "23.8",
+        "vant": "1.3 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2775778.200000",
+          "5754146.260000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 89,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "973.5 mb, variabila",
+        "icon": "84",
+        "nume": "FAGARAS",
+        "tempe": "18.7",
+        "vant": "1.7 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3099020.070000",
+          "5526231.040000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 63,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1014.9 mb, in crestere",
+        "icon": "84",
+        "nume": "FETESTI",
+        "tempe": "23.0",
+        "vant": "1.9 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3027863.370000",
+          "5730413.600000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 62,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1015.7 mb, in crestere",
+        "icon": "84",
+        "nume": "FOCSANI",
+        "tempe": "24.9",
+        "vant": "1.7 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2813212.720000",
+          "5689704.360000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 79,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "873.1 mb, variabila",
+        "icon": "1",
+        "nume": "FUNDATA",
+        "tempe": "15.6",
+        "vant": "1.0 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3120537.620000",
+          "5696280.990000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 62,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1013.3 mb, in crestere",
+        "icon": "84",
+        "nume": "GALATI",
+        "tempe": "24.2",
+        "vant": "0.7 m/s, directia : NNV",
+        "tempapa": "indisponibil",
+        "offset": [
+          -48,
+          0
+        ]
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2886816.580000",
+          "5446144.450000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1018.9 mb, variabila",
+        "icon": "1",
+        "nume": "GIURGIU",
+        "tempe": "22.7",
+        "vant": "0.4 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3250360.220000",
+          "5650392.370000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 76,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1021.2 mb, in crestere",
+        "icon": "84",
+        "nume": "GORGOVA",
+        "tempe": "22.0",
+        "vant": "1.0 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3038417.210000",
+          "5580805.120000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 75,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1016.0 mb, in crestere",
+        "icon": "84",
+        "nume": "GRIVITA",
+        "tempe": "22.3",
+        "vant": "2.6 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3228147.900000",
+          "5572823.120000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 58,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "1021.4 mb, in crestere",
+        "icon": "5",
+        "nume": "GURA PORTITEI",
+        "tempe": "24.8",
+        "vant": "3.1 m/s, directia : SV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2486132.320000",
+          "5825202.150000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 80,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1001.1 mb, in crestere",
+        "icon": "84",
+        "nume": "GURAHONT",
+        "tempe": "22.1",
+        "vant": "1.4 m/s, directia : E",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3112882.450000",
+          "5573114.410000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 55,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1017.0 mb, in crestere",
+        "icon": "84",
+        "nume": "HARSOVA",
+        "tempe": "23.5",
+        "vant": "2.1 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2461526.180000",
+          "5907631.850000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 65,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1002.7 mb, in crestere",
+        "icon": "84",
+        "nume": "HOLOD",
+        "tempe": "24.9",
+        "vant": "1.1 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2563971.010000",
+          "5918812.880000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 68,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "958.6 mb, variabila",
+        "icon": "84",
+        "nume": "HUEDIN",
+        "tempe": "20.3",
+        "vant": "2.4 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3075566.380000",
+          "5970022.070000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1013.7 mb, in crestere",
+        "icon": "1",
+        "nume": "IASI",
+        "tempe": "23.5",
+        "vant": "2.9 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2743915.440000",
+          "6040988.360000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 88,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "831.8 mb, in crestere",
+        "icon": "84",
+        "nume": "IEZER",
+        "tempe": "11.0",
+        "vant": "2.1 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2900624.260000",
+          "5727347.000000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 98,
+        "fenomen_e": "aer cetos",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "944.5 mb, in crestere",
+        "icon": "11",
+        "nume": "INTORSURA BUZAULUI",
+        "tempe": "17.0",
+        "vant": "1.5 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2304577.010000",
+          "5745299.270000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 56,
+        "fenomen_e": "aer cetos",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1011.7 mb, variabila",
+        "icon": "11",
+        "nume": "JIMBOLIA",
+        "tempe": "26.3",
+        "vant": "1.5 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2840044.790000",
+          "5894172.450000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 86,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "938.2 mb, variabila",
+        "icon": "4",
+        "nume": "JOSENI",
+        "tempe": "17.5",
+        "vant": "3.1 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3214503.640000",
+          "5584768.090000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 64,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1017.3 mb, in crestere",
+        "icon": "84",
+        "nume": "JURILOVCA",
+        "tempe": "21.8",
+        "vant": "2.3 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2936110.590000",
+          "5752175.100000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 92,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "831.8 mb, variabila",
+        "icon": "1",
+        "nume": "LACAUTI",
+        "tempe": "12.5",
+        "vant": "1.2 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2441602.330000",
+          "5730258.200000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 82,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1007.0 mb, in crestere",
+        "icon": "84",
+        "nume": "LUGOJ",
+        "tempe": "23.2",
+        "vant": "1.3 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3236431.110000",
+          "5635255.040000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 61,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1002.0 mb, in crestere",
+        "icon": "84",
+        "nume": "MAHMUDIA",
+        "tempe": "22.7",
+        "vant": "7.3 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3182335.770000",
+          "5437030.730000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 53,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1021.0 mb, in crestere",
+        "icon": "84",
+        "nume": "MANGALIA",
+        "tempe": "23.2",
+        "vant": "1.9 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3144926.960000",
+          "5503154.640000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 64,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1013.8 mb, in crestere",
+        "icon": "4",
+        "nume": "MEDGIDIA",
+        "tempe": "21.3",
+        "vant": "2.5 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2868992.450000",
+          "5840051.940000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 97,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "947.7 mb, in crestere",
+        "icon": "4",
+        "nume": "MIERCUREA CIUC",
+        "tempe": "16.8",
+        "vant": "1.3 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2408203.460000",
+          "5577931.510000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 65,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1012.1 mb, variabila",
+        "icon": "84",
+        "nume": "MOLDOVA VECHE",
+        "tempe": "23.4",
+        "vant": "2.9 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3054842.570000",
+          "5915684.780000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 80,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1006.4 mb, in crestere",
+        "icon": "84",
+        "nume": "NEGRESTI (VASLUI)",
+        "tempe": "19.6",
+        "vant": "0.7 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2665039.400000",
+          "6069842.620000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 76,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "965.1 mb, variabila",
+        "icon": "4",
+        "nume": "OCNA SUGATAG",
+        "tempe": "20.0",
+        "vant": "0.9 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2815464.270000",
+          "5828033.430000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "962.5 mb, variabila",
+        "icon": "84",
+        "nume": "ODORHEIUL SECUIESC",
+        "tempe": "20.6",
+        "vant": "1.1 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2965229.170000",
+          "5477008.430000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 91,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1019.8 mb, variabila",
+        "icon": "84",
+        "nume": "OLTENITA",
+        "tempe": "19.8",
+        "vant": "0.4 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2437443.830000",
+          "5947902.820000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 65,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "1005.9 mb, in crestere",
+        "icon": "5",
+        "nume": "ORADEA",
+        "tempe": "24.7",
+        "vant": "1.7 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2416800.020000",
+          "5627618.020000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 60,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "986.4 mb, in crestere",
+        "icon": "84",
+        "nume": "ORAVITA",
+        "tempe": "23.1",
+        "vant": "2.2 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2544708.100000",
+          "5621018.610000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 88,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "992.2 mb, in crestere",
+        "icon": "84",
+        "nume": "PADES (APA NEAGRA)",
+        "tempe": "20.1",
+        "vant": "0.4 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2664146.330000",
+          "5725571.190000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 74,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "864.9 mb, variabila",
+        "icon": "1",
+        "nume": "PALTINIS",
+        "tempe": "15.0",
+        "vant": "0.1 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2611896.150000",
+          "5682712.190000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 74,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "855.2 mb, in crestere",
+        "icon": "1",
+        "nume": "PARANG",
+        "tempe": "15.8",
+        "vant": "1.8 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2935437.370000",
+          "5672775.850000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 91,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "989.3 mb, in crestere",
+        "icon": "84",
+        "nume": "PATARLAGELE",
+        "tempe": "18.8",
+        "vant": "1.2 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2939926.860000",
+          "5716901.840000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "846.2 mb, in crestere",
+        "icon": "4",
+        "nume": "PENTELEU",
+        "tempe": "14.1",
+        "vant": "2.1 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2602281.640000",
+          "5685712.130000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 85,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "953.9 mb, variabila",
+        "icon": "84",
+        "nume": "PETROSANI",
+        "tempe": "18.0",
+        "vant": "0.5 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2937665.290000",
+          "5931252.800000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "981.3 mb, in crestere",
+        "icon": "84",
+        "nume": "PIATRA NEAMT",
+        "tempe": "21.5",
+        "vant": "1.4 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2768067.290000",
+          "5597769.800000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 70,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "985.1 mb, in crestere",
+        "icon": "84",
+        "nume": "PITESTI",
+        "tempe": "22.5",
+        "vant": "0.7 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2882903.610000",
+          "5609957.690000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 93,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1001.5 mb, in crestere",
+        "icon": "84",
+        "nume": "PLOIESTI",
+        "tempe": "19.5",
+        "vant": "1.6 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2797952.830000",
+          "5995226.710000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 97,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "919.7 mb, variabila",
+        "icon": "84",
+        "nume": "POIANA STAMPEI",
+        "tempe": "15.1",
+        "vant": "1.1 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2650360.790000",
+          "5647605.530000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "962.0 mb, in crestere",
+        "icon": "1",
+        "nume": "POLOVRAGI",
+        "tempe": "19.7",
+        "vant": "3.0 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2847940.590000",
+          "5701579.760000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 79,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "902.0 mb, in crestere",
+        "icon": "84",
+        "nume": "PREDEAL",
+        "tempe": "16.8",
+        "vant": "0.9 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2882109.900000",
+          "6079919.360000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "978.5 mb, variabila",
+        "icon": "84",
+        "nume": "RADAUTI",
+        "tempe": "19.2",
+        "vant": "2.4 m/s, directia : VSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3009912.280000",
+          "5683230.050000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 74,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1003.6 mb, in crestere",
+        "icon": "84",
+        "nume": "RAMNICU SARAT",
+        "tempe": "22.6",
+        "vant": "3.8 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2712054.480000",
+          "5635514.910000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "994.6 mb, variabila",
+        "icon": "1",
+        "nume": "RAMNICU VALCEA",
+        "tempe": "22.5",
+        "vant": "1.8 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2436448.630000",
+          "5671148.570000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "989.7 mb, variabila",
+        "icon": "84",
+        "nume": "RESITA",
+        "tempe": "22.8",
+        "vant": "1.1 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2995808.950000",
+          "5937029.470000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 63,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "996.6 mb, in crestere",
+        "icon": "84",
+        "nume": "ROMAN",
+        "tempe": "22.9",
+        "vant": "2.7 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2575826.560000",
+          "5831389.470000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "891.6 mb, variabila",
+        "icon": "4",
+        "nume": "ROSIA MONTANA",
+        "tempe": "19.3",
+        "vant": "0.7 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2780618.380000",
+          "5482048.990000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 68,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1009.6 mb, in crestere",
+        "icon": "1",
+        "nume": "ROSIORII DE VEDE",
+        "tempe": "21.9",
+        "vant": "1.9 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2459549.970000",
+          "5998429.380000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1007.0 mb, variabila",
+        "icon": "84",
+        "nume": "SACUIENI",
+        "tempe": "25.3",
+        "vant": "0.7 m/s, directia : SV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2293356.410000",
+          "5791779.720000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 53,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1011.1 mb, in crestere",
+        "icon": "84",
+        "nume": "SANNICOLAU MARE",
+        "tempe": "26.6",
+        "vant": "2.7 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2689456.150000",
+          "5900963.180000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 51,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "976.5 mb, variabila",
+        "icon": "84",
+        "nume": "SARMASU",
+        "tempe": "24.5",
+        "vant": "1.2 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2547786.030000",
+          "6060641.510000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 67,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1007.1 mb, variabila",
+        "icon": "4",
+        "nume": "SATU MARE",
+        "tempe": "24.7",
+        "vant": "1.8 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2620625.240000",
+          "5774603.480000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 70,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "991.0 mb, variabila",
+        "icon": "1",
+        "nume": "SEBES (ALBA)",
+        "tempe": "21.6",
+        "vant": "1.0 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2455240.910000",
+          "5650123.630000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "868.1 mb, in crestere",
+        "icon": "1",
+        "nume": "SEMENIC",
+        "tempe": "17.2",
+        "vant": "1.1 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3294952.600000",
+          "5605421.380000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 74,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1021.5 mb, in crestere",
+        "icon": "84",
+        "nume": "SFANTU GHEORGHE (DELTA)",
+        "tempe": "22.2",
+        "vant": "1.5 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2872276.610000",
+          "5759788.760000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 74,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "962.8 mb, variabila",
+        "icon": "84",
+        "nume": "SFANTU GHEORGHE (MUNTE)",
+        "tempe": "21.2",
+        "vant": "0.8 m/s, directia : E",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2681843.400000",
+          "5746648.410000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 68,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "970.7 mb, variabila",
+        "icon": "84",
+        "nume": "SIBIU",
+        "tempe": "20.5",
+        "vant": "1.7 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2661018.130000",
+          "6096759.830000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "990.8 mb, variabila",
+        "icon": "84",
+        "nume": "SIGHETUL MARMATIEI",
+        "tempe": "20.2",
+        "vant": "1.1 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2840223.880000",
+          "5677577.690000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 84,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "858.5 mb, in crestere",
+        "icon": "1",
+        "nume": "SINAIA 1500",
+        "tempe": "14.3",
+        "vant": "1.0 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2411490.570000",
+          "5822893.570000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 43,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "968.0 mb, in crestere",
+        "icon": "84",
+        "nume": "SIRIA",
+        "tempe": "26.5",
+        "vant": "2.1 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2711131.960000",
+          "5534126.860000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 62,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1001.9 mb, in crestere",
+        "icon": "1",
+        "nume": "SLATINA",
+        "tempe": "23.1",
+        "vant": "0.7 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3048320.610000",
+          "5551384.570000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1015.4 mb, in crestere",
+        "icon": "1",
+        "nume": "SLOBOZIA",
+        "tempe": "21.9",
+        "vant": "2.2 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2518423.490000",
+          "5891589.300000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 97,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "900.2 mb, in crestere",
+        "icon": "1",
+        "nume": "STANA DE VALE",
+        "tempe": "13.4",
+        "vant": "0.5 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3030083.230000",
+          "6078989.390000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 60,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1009.7 mb, in crestere",
+        "icon": "84",
+        "nume": "STEFANESTI STANCA",
+        "tempe": "23.9",
+        "vant": "1.6 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2500958.850000",
+          "5865368.760000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 84,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "989.4 mb, in crestere",
+        "icon": "84",
+        "nume": "STEI (PETRU GROZA)",
+        "tempe": "20.9",
+        "vant": "1.7 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2759587.010000",
+          "5552941.250000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "997.7 mb, variabila",
+        "icon": "84",
+        "nume": "STOLNICI",
+        "tempe": "20.1",
+        "vant": "1.4 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2921082.930000",
+          "6045995.030000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 66,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "980.7 mb, in crestere",
+        "icon": "84",
+        "nume": "SUCEAVA",
+        "tempe": "21.3",
+        "vant": "1.1 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3312749.660000",
+          "5644923.480000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 72,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1020.0 mb, in crestere",
+        "icon": "4",
+        "nume": "SULINA",
+        "tempe": "22.5",
+        "vant": "4.1 m/s, directia : VSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2536256.850000",
+          "6016672.650000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 77,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1003.1 mb, variabila",
+        "icon": "84",
+        "nume": "SUPURU DE JOS",
+        "tempe": "22.4",
+        "vant": "0.8 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2508330.800000",
+          "5665868.690000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "794.0 mb, in crestere",
+        "icon": "4",
+        "nume": "TARCU",
+        "tempe": "11.9",
+        "vant": "5.3 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2830444.630000",
+          "5610425.120000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "988.1 mb, variabila",
+        "icon": "5",
+        "nume": "TARGOVISTE",
+        "tempe": "21.6",
+        "vant": "1.1 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2589216.850000",
+          "5627920.610000"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 76,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "998.3 mb, variabila",
+        "icon": "1",
+        "nume": "TARGU JIU",
+        "tempe": "22.3",
+        "vant": "1.1 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2657442.250000",
+          "6014127.430000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "980.2 mb, variabila",
+        "icon": "84",
+        "nume": "TARGU LAPUS",
+        "tempe": "20.4",
+        "vant": "1.8 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2639239.470000",
+          "5602350.800000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 95,
+        "fenomen_e": "aer cetos",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "991.5 mb, in crestere",
+        "icon": "11",
+        "nume": "TARGU LOGRESTI",
+        "tempe": "19.3",
+        "vant": "0.9 m/s, directia : NE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2731086.770000",
+          "5866224.720000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 67,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "986.7 mb, variabila",
+        "icon": "1",
+        "nume": "TARGU MURES",
+        "tempe": "21.6",
+        "vant": "0.7 m/s, directia : SSE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2936515.760000",
+          "5976766.360000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 65,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "978.6 mb, in crestere",
+        "icon": "84",
+        "nume": "TARGU NEAMT",
+        "tempe": "21.0",
+        "vant": "1.4 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2965664.810000",
+          "5824156.980000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 78,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "994.2 mb, in crestere",
+        "icon": "84",
+        "nume": "TARGU OCNA",
+        "tempe": "21.9",
+        "vant": "4.0 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2907114.550000",
+          "5779209.970000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 94,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "958.1 mb, in crestere",
+        "icon": "84",
+        "nume": "TARGU SECUIESC",
+        "tempe": "17.6",
+        "vant": "3.8 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2696822.140000",
+          "5838239.130000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 45,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "962.5 mb, variabila",
+        "icon": "1",
+        "nume": "TARNAVENI (BOBOHALMA)",
+        "tempe": "25.5",
+        "vant": "0.9 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2529867.620000",
+          "5807548.680000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 89,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "990.9 mb, variabila",
+        "icon": "84",
+        "nume": "TEBEA",
+        "tempe": "20.5",
+        "vant": "1.1 m/s, directia : ESE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3051154.210000",
+          "5754995.160000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 81,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1014.4 mb, in crestere",
+        "icon": "84",
+        "nume": "TECUCI",
+        "tempe": "21.9",
+        "vant": "1.5 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2366438.340000",
+          "5743736.020000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 58,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer partial noros",
+        "presiunetext": "1010.5 mb, in crestere",
+        "icon": "4",
+        "nume": "TIMISOARA",
+        "tempe": "24.9",
+        "vant": "0.1 m/s, directia : SE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2847461.160000",
+          "5567035.400000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 69,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1004.0 mb, variabila",
+        "icon": "84",
+        "nume": "TITU",
+        "tempe": "23.9",
+        "vant": "1.4 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2823050.030000",
+          "5930065.190000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 84,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "945.5 mb, in crestere",
+        "icon": "84",
+        "nume": "TOPLITA",
+        "tempe": "18.1",
+        "vant": "1.4 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3208686.460000",
+          "5651561.390000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 45,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer acoperit",
+        "presiunetext": "1021.0 mb, in crestere",
+        "icon": "5",
+        "nume": "TULCEA",
+        "tempe": "25.0",
+        "vant": "1.9 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2648429.000000",
+          "5874278.640000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 61,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "973.3 mb, variabila",
+        "icon": "84",
+        "nume": "TURDA",
+        "tempe": "22.8",
+        "vant": "1.4 m/s, directia : NV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2769456.460000",
+          "5428399.950000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 75,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer senin",
+        "presiunetext": "1018.2 mb, variabila",
+        "icon": "1",
+        "nume": "TURNU MAGURELE",
+        "tempe": "21.5",
+        "vant": "0.3 m/s, directia : NNE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2967463.640000",
+          "5577819.700000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 76,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1014.8 mb, variabila",
+        "icon": "84",
+        "nume": "URZICENI",
+        "tempe": "21.8",
+        "vant": "1.1 m/s, directia : VNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2465833.050000",
+          "5783426.950000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 83,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1004.1 mb, in crestere",
+        "icon": "84",
+        "nume": "VARADIA DE MURES",
+        "tempe": "20.2",
+        "vant": "0.4 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2833823.700000",
+          "5691976.540000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 100,
+        "fenomen_e": "ceata",
+        "zapada": "discontinuu ",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "cer invizibil",
+        "presiunetext": "762.7 mb, in crestere",
+        "icon": "29",
+        "nume": "VARFUL OMU",
+        "tempe": "7.4",
+        "vant": "5.6 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3085154.680000",
+          "5884498.970000"
+        ],
+        "zoom": 1
+      },
+      "properties": {
+        "umezeala": 77,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1008.0 mb, in crestere",
+        "icon": "84",
+        "nume": "VASLUI",
+        "tempe": "21.4",
+        "vant": "0.8 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2842763.710000",
+          "5509321.370000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 59,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1009.5 mb, variabila",
+        "icon": "84",
+        "nume": "VIDELE",
+        "tempe": "23.4",
+        "vant": "1.1 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2537436.840000",
+          "5902864.720000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 85,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "826.8 mb, in crestere",
+        "icon": "84",
+        "nume": "VLADEASA 1800",
+        "tempe": "12.8",
+        "vant": "3.8 m/s, directia : ENE",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2667993.710000",
+          "5686489.180000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 86,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "957.9 mb, variabila",
+        "icon": "84",
+        "nume": "VOINEASA",
+        "tempe": "16.4",
+        "vant": "0.5 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2565551.050000",
+          "5973939.710000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 60,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "987.9 mb, variabila",
+        "icon": "84",
+        "nume": "ZALAU",
+        "tempe": "23.5",
+        "vant": "1.7 m/s, directia : S",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2822348.930000",
+          "5413210.120000"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 71,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1017.6 mb, variabila",
+        "icon": "84",
+        "nume": "ZIMNICEA",
+        "tempe": "21.3",
+        "vant": "0.4 m/s, directia : V",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3189187.639",
+          "5499510.665"
+        ],
+        "zoom": 2
+      },
+      "properties": {
+        "umezeala": 44,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1021.4 mb, in crestere",
+        "icon": "84",
+        "nume": "CONSTANTA - dig",
+        "tempe": "25.3",
+        "vant": "2.4 m/s, directia : SSV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2588209.08",
+          "5670281.51"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "844.7 mb, in crestere",
+        "icon": "84",
+        "nume": "STRAJA",
+        "tempe": "14.3",
+        "vant": "5.0 m/s, directia : N",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2636973.20",
+          "5667555.90"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 56,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "851.8 mb, variabila",
+        "icon": "84",
+        "nume": "RANCA",
+        "tempe": "16.0",
+        "vant": "1.8 m/s, directia : NNV",
+        "tempapa": "indisponibil"
+      }
+    },
+    {
+      "type": "feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "3159937.774833982",
+          "5458578.853022021"
+        ],
+        "zoom": 0
+      },
+      "properties": {
+        "umezeala": 73,
+        "fenomen_e": "indisponibil",
+        "zapada": "indisponibil",
+        "actualizat": "20-06-2026&nbsp;ora&nbsp;23:00",
+        "nebulozitate": "indisponibil",
+        "presiunetext": "1012.1 mb, in crestere",
+        "icon": "84",
+        "nume": "AMZACEA",
+        "tempe": "19.3",
+        "vant": "2.0 m/s, directia : VSV",
+        "tempapa": "indisponibil"
+      }
+    }
+  ]
+}
