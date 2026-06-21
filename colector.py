@@ -12,6 +12,8 @@ def colecteaza_date():
 
     date_meteo = response.json()
 
+    print(f"Observatie API: {date_meteo['date']}")
+
     obs_time = datetime.fromisoformat(date_meteo["date"])
 
     timestamp = (
