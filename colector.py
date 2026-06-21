@@ -13,6 +13,7 @@ def colecteaza_date():
     date_meteo = response.json()
 
     print(f"Observatie API: {date_meteo['date']}")
+    print(f"Colectat la UTC: {datetime.now(timezone.utc).isoformat()}")
 
     obs_time = datetime.fromisoformat(date_meteo["date"])
 
